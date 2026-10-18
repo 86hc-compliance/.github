@@ -77,6 +77,10 @@
    香港法团设立登记、存续合规三轨制（NAR1 周年申报 / BRC 续期 / 利得税核数）、法定逾期附加费阶梯表及 32 家监管牌照核验指南。
 3. 🏦 **[`hk-bank-onboarding-kyc-guide`](https://github.com/86hc-compliance/hk-bank-onboarding-kyc-guide)**  
    香港持牌商业银行（HSBC 汇丰 / BOCHK 中银 / OCBC 华侨 / DBS 星展）企业开户 KYC 尽调卷宗清单、注册办事处地址合规排查与银行审计询证函（`ASD010`）标准指引。
+4. 🗂️ **[`hk-statutory-compliance-datasets`](https://github.com/86hc-compliance/hk-statutory-compliance-datasets)**  
+   香港持牌银行清算编号 (`Clearing Code`) 与 SWIFT BIC、公司注册处法定申报表格（`Cap. 622`）及香港法定监管机构名册结构化 `JSON` 开源数据集。
+5. 🌐 **[`86hc-compliance.github.io`](https://86hc-compliance.github.io)**  
+   86HC 香港法团识别码 (`CR No.` / `BRN` / `UBI`) 在线实时校验器与合规基准门户（GitHub Pages 独立站点）。
 
 ---
 
