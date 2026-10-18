@@ -13,7 +13,7 @@
   提供法定香港公司查册（Company Search）、商业登记核验（BRC Search）、香港法团设立登记（Company Formation）、法定公司秘书及周年申报表（Form NAR1）申报合规中枢。
 </p>
 
-[🌐 访问官网 (中文版)](https://www.86hc.com) • [🇭🇰 繁體中文 (/tc/)](https://www.86hc.com/tc/) • [🌍 English (/en/)](https://www.86hc.com/en/) • [📑 商业登记查册工具](https://www.86hc.com/business-registration-search/) • [🔍 查册综合检索](https://www.86hc.com/search/)
+[🌐 访问官网 (中文版)](https://www.86hc.com) • [🇭🇰 繁體中文 (/tc/)](https://www.86hc.com/tc/) • [🌍 English (/en/)](https://www.86hc.com/en/) • [🔍 公司查册](https://www.86hc.com/company-search) • [📑 商业登记核验](https://www.86hc.com/business-registration-search) • [🏦 银行开户](https://www.86hc.com/open-bank-account)
 
 </div>
 
@@ -31,12 +31,14 @@
 
 | 业务板块 / Solution | 法定依据与监管局署 | 服务要件与核心场景 | 官方入口 |
 | :--- | :--- | :--- | :--- |
-| **香港法团设立登记<br>(Company Formation)** | 公司注册处 (CR)<br>《公司条例》(Cap. 622) | 提供法定名称查重、法团成立表格 (Form NNC1/NNC1G) 编制、章程大纲拟定、注册证书 (CI) 申领全流程 | [设立咨询](https://www.86hc.com) |
-| **法定秘书与周年申报<br>(Annual Compliance & NAR1)** | 公司注册处 (CR) & BRO<br>Cap. 622 第662条 | 担任法定公司秘书、编制并呈交周年申报表 (NAR1)、商业登记证 (BRC) 续期、重要控制人登记册 (SCR) 备存 | [周年合规](https://www.86hc.com/samples/) |
-| **香港公司查册<br>(Company Search)** | 公司注册处 (CR)<br>综合资讯系统 (ICRIS) | 现存法团状态（Live / Dissolved）、7-8位公司编号 (CR No.)、董监事名册与股权架构穿透检索 | [查册检索](https://www.86hc.com/search/) |
-| **商业登记查册<br>(BRC Verification)** | 税务局商业登记署 (BRO)<br>《商业登记条例》(Cap. 310) | 8位商业登记号码 (BRN) 真实性校验、分行登记状态、业务性质及有效经营期核验 | [商业登记核验](https://www.86hc.com/business-registration-search/) |
-| **官方存盘卷宗调阅<br>(Statutory Filing Dossier)** | 公司注册处 (CR)<br>加盖官方条形码与水印 | 调阅周年申报表 (NAR1)、成立表格 (NNC1)、董事及秘书变更 (ND2A)、股份配发 (NSC1) 等真实法定存盘原件 | [卷宗调阅](https://www.86hc.com/samples/) |
-| **商业银行开户合规预审<br>(Bank Onboarding Pre-Check)** | 金管局 (HKMA) 指引<br>香港持牌商业银行通道 | 汇丰、中银、恒生、星展等银行开户合规材料预审、贸易合同与背景穿透风控辅导 | [银行开户咨询](https://www.86hc.com/bank-opening/) |
+| **香港法团设立登记<br>(Company Formation)** | 公司注册处 (CR)<br>《公司条例》(Cap. 622) | 法定名称查重、法团成立表格 (Form NNC1/NNC1G) 编制、章程大纲拟定、注册证书 (CI) 申领全流程 | [公司设立登记](https://www.86hc.com/company-incorporation) |
+| **法定秘书与周年申报<br>(Annual Compliance & NAR1)** | 公司注册处 (CR) & BRO<br>Cap. 622 第662条 | 担任法定公司秘书、编制并呈交周年申报表 (NAR1)、商业登记证 (BRC) 续期、重要控制人登记册 (SCR) 备存 | [周年申报合规](https://www.86hc.com/company-annual-return) |
+| **香港公司查册<br>(Company Search)** | 公司注册处 (CR)<br>综合资讯系统 (ICRIS) | 现存法团状态（Live / Dissolved）、7-8位公司编号 (CR No.)、董监事名册与股权架构穿透检索 | [公司查册中心](https://www.86hc.com/company-search) |
+| **商业登记查册<br>(BRC Verification)** | 税务局商业登记署 (BRO)<br>《商业登记条例》(Cap. 310) | 8位商业登记号码 (BRN) 真实性校验、分行登记状态、业务性质及有效经营期核验 | [商业登记查册](https://www.86hc.com/business-registration-search) |
+| **官方存盘卷宗调阅<br>(Statutory Filing Dossier)** | 公司注册处 (CR)<br>加盖官方条形码与水印 | 调阅周年申报表 (NAR1)、成立表格 (NNC1)、董事及秘书变更 (ND2A)、股份配发 (NSC1) 等真实法定存盘原件 | [卷宗调阅样张](https://www.86hc.com/samples) |
+| **商业银行开户合规预审<br>(Bank Onboarding Pre-Check)** | 金管局 (HKMA) 指引<br>香港持牌商业银行通道 | 汇丰、中银、恒生、星展等银行开户合规材料预审、贸易合同与背景穿透风控辅导 | [银行开户预审](https://www.86hc.com/open-bank-account) |
+| **法团信息与架构变更<br>(Company Alteration)** | 公司注册处 (CR)<br>法定表格申报体系 | 董事与公司秘书任免变动 (ND2A/ND2B)、注册办事处地址变更 (NR1)、股份分配 (NSC1) | [法团变更服务](https://www.86hc.com/company-alteration) |
+| **董监事与股东穿透查册<br>(Director & Shareholder Search)** | 公司注册处 (CR)<br>公司名册登记册 | 穿透排查关联法团任职、法人董事、最终控股股东及关联关系链条 | [董事股东查册](https://www.86hc.com/director-shareholder-search) |
 
 ---
 
