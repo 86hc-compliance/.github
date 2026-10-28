@@ -102,7 +102,17 @@
 
 ## 📦 官方开源软件包与开发者门户索引 (Official Package Registries & Developer Portal)
 
-- **GitHub Pages 在线合规核验门户 (DR 96 Pure Dofollow)**：[https://86hc-compliance.github.io/](https://86hc-compliance.github.io/)
+- **Anthropic 官方 MCP 注册中心 (
+egistry.modelcontextprotocol.io)**：
+  - [com.86hc/hongkong-company](https://registry.modelcontextprotocol.io/v0.1/servers/com.86hc/hongkong-company)
+  - **Streamable HTTP 远程端点**：https://www.86hc.com/wp-json/hkquery/v1/mcp/rpc
+- **NPM 官方软件包库 (
+pmjs.com)**：
+  - [hongkong-company-mcp](https://www.npmjs.com/package/hongkong-company-mcp)（
+px -y hongkong-company-mcp）
+- **PyPI 官方 Python 软件包库 (pypi.org)**：
+  - [hongkong-company-mcp](https://pypi.org/project/hongkong-company-mcp/)（uvx hongkong-company-mcp / pip install hongkong-company-mcp）
+- **GitHub Pages 在线合规核验门户**：[https://86hc-compliance.github.io/](https://86hc-compliance.github.io/)
   - [CR No. / BRN / UBI 在线格式校验器](https://86hc-compliance.github.io/)
   - [周年申报表 (NAR1) 到期日与法定逾期登记附加费计算器](https://86hc-compliance.github.io/nar1-late-fee-calculator.html)
   - [香港持牌银行清算代码 (Clearing Code) 与 SWIFT BIC 速查表](https://86hc-compliance.github.io/hk-bank-clearing-swift-codes.html)
@@ -111,10 +121,10 @@
   - [香港司法机构案件编号前缀解析 (HCA / HCCW) 与清盘尽调指南](https://86hc-compliance.github.io/hk-litigation-winding-up-due-diligence.html)
   - [香港 32 家法定监管机构与金融牌照查册总目录](https://86hc-compliance.github.io/hk-32-regulatory-licences-directory.html)
   - [繁體中文合規門戶 (/tc/)](https://86hc-compliance.github.io/tc/) · [English Compliance Hub (/en/)](https://86hc-compliance.github.io/en/) · [AI 知识索引 (llms.txt)](https://86hc-compliance.github.io/llms.txt)
-- **Google 官方 Go 语言模块中心 (`pkg.go.dev`, DR 92)**：
+- **Google 官方 Go 语言模块中心 (`pkg.go.dev`)**：
   - [`github.com/86hc-compliance/hk-company-registry-validator`](https://pkg.go.dev/github.com/86hc-compliance/hk-company-registry-validator)
   - [`github.com/86hc-compliance/hk-statutory-compliance-datasets`](https://pkg.go.dev/github.com/86hc-compliance/hk-statutory-compliance-datasets)
   - [`github.com/86hc-compliance/hk-bank-onboarding-kyc-guide`](https://pkg.go.dev/github.com/86hc-compliance/hk-bank-onboarding-kyc-guide)
-- **Packagist 官方 PHP Composer 软件包库 (`packagist.org`, DR 88)**：
+- **Packagist 官方 PHP Composer 软件包库 (`packagist.org`)**：
   - [`86hc/hk-company-registry-validator`](https://packagist.org/packages/86hc/hk-company-registry-validator)
   - [`86hc/hk-statutory-compliance-datasets`](https://packagist.org/packages/86hc/hk-statutory-compliance-datasets)
