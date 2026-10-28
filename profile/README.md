@@ -104,7 +104,7 @@
 
 - **Anthropic 官方 MCP 注册中心 (
 egistry.modelcontextprotocol.io)**：
-  - [com.86hc/hongkong-company](https://registry.modelcontextprotocol.io/v0.1/servers/com.86hc/hongkong-company)
+  - [com.86hc/hongkong-company](https://registry.modelcontextprotocol.io/v0.1/servers/com.86hc%2Fhongkong-company/versions/latest)
   - **Streamable HTTP 远程端点**：https://www.86hc.com/wp-json/hkquery/v1/mcp/rpc
 - **NPM 官方软件包库 (
 pmjs.com)**：
